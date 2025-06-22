@@ -25,6 +25,9 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    },
+    "Profile 1": {
+      "commandName": "Executable"
     }
   },
   "$schema": "https://json.schemastore.org/launchsettings.json",
@@ -36,4 +39,4 @@
       "sslPort": 44355
     }
   }
-} 
+}
